@@ -1,0 +1,16 @@
+html {
+  padding: 0;
+}
+
+body {
+  margin: 0;
+  min-width: 480px;
+}
+
+h1, h2, h3, h4 {
+  font-weight: lighter !important;
+}
+
+.hidden {
+  display: none !important;
+}
